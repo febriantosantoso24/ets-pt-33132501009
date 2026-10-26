@@ -1,0 +1,12 @@
+Nama: Febrianto Santoso
+
+NRP: 33132501009
+
+Working Tree
+Working tree adalah tempat file dibuat, diubah, atau dihapus di dalam folder kerja.
+
+Staging Area
+Staging area adalah tempat menyiapkan perubahan yang akan dimasukkan ke commit.
+
+Repository
+Repository adalah tempat Git menyimpan riwayat commit dari perubahan yang telah disimpan.
